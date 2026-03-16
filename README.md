@@ -56,7 +56,7 @@ The system integrates hardware and embedded software to create a reliable door l
 
 
 ## Documentation & Code
-- [Download Full Project Report (PDF)](docs/Final_Year_Project_Report.pdf)
+- [Download Full Project Report (PDF)](docs/ABIOLA_undergrad_project_.pdf)
   
 - Source code is in the `src` folder  
 
