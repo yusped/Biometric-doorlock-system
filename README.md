@@ -1,6 +1,11 @@
 # Biometric-doorlock-system
 # Biometric Automatic Door Lock Access Control System
 
+![Language](https://img.shields.io/badge/Language-Arduino%20C-blue)
+![Project](https://img.shields.io/badge/Project-Embedded%20Systems-green)
+![Type](https://img.shields.io/badge/Type-Academic%20Project-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 Final-year B.Eng. project
 Federal University of Technology Akure (FUTA), Nigeria – 2025  
 
