@@ -17,7 +17,7 @@ The system integrates hardware and embedded software to create a reliable door l
 ## Features
 - Fingerprint enrollment and verification  
 - Secure access control (authorized users only)  
-- LCD display feedback ("Ready for Use", "Place Finger", "Enroll Success", "Access Granted", "Access Denied")  
+- OLED display feedback ("Ready for Use", "Place Finger", "Enroll Success", "Access Granted", "Access Denied")  
 - Buzzer alert for unauthorized attempts  
 - Error handling and system reliability  
 
@@ -25,7 +25,7 @@ The system integrates hardware and embedded software to create a reliable door l
 - Microcontroller: Arduino Nano  
 - Fingerprint sensor  
 - Relay module (controls door lock)  
-- LCD display  
+- OLED display  
 - Buzzer  
 - Power supply (battery + boost converter)  
 
@@ -45,7 +45,7 @@ The system integrates hardware and embedded software to create a reliable door l
 2. System compares fingerprint with stored templates  
 3. If match found:  
    - Relay activates → door unlocks  
-   - LCD shows "Access Granted"  
+   - OLED shows "Access Granted"  
 4. If no match:  
    - Access denied  
    - Buzzer alert triggered  
