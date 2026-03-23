@@ -54,7 +54,7 @@ The system integrates hardware and embedded software to create a reliable door l
 
 ![Access Granted](images/Access_granted.jpeg)  
 ![Enroll Success](images/Enroll_success.jpeg)  
-![Door Unlocked](images/Door_Unlocked_2.jpeg)  
+![Door Unlocked](images/Door_unlocked.jpeg)  
 ![Ready for Use](images/Ready_for_use.jpeg)  
 ![Internal View](images/Internal_view.jpeg)
 ![Schematic Diagram](images/Schematic_diagram.jpeg)  
